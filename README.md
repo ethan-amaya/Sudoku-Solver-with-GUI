@@ -1,5 +1,5 @@
 # Sudoku-Solver-with-GUI
-A project I worked on in summer of 2023. 
+This project I worked on in summer of 2023 and updated in 2024. 
 
 The project just started as creating an algorithm that could solve Sudoku puzzles. I created an algorithm that checks each row, column, and 3x3 box to eliminate possible solutions to the puzzle. The algorithm repeats until each cell of the puzzle has one single number, meaning the puzzle has been solved.
 
